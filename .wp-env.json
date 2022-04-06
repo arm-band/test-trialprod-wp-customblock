@@ -1,0 +1,5 @@
+{
+    "mappings": {
+        "wp-content/plugins/testblock": "./test-practice-wp-block/gutenpride"
+    }
+}
